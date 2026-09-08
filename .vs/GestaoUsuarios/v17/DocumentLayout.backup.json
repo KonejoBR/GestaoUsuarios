@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositories\\GH\\GestaoUsuarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38213B17-566C-F0CF-7FCB-119BB63C7B0C}|GestaoUsuarios.csproj|c:\\repositories\\gh\\gestaousuarios\\wwwroot\\js\\usuarios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{38213B17-566C-F0CF-7FCB-119BB63C7B0C}|GestaoUsuarios.csproj|solutionrelative:wwwroot\\js\\usuarios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38213B17-566C-F0CF-7FCB-119BB63C7B0C}|GestaoUsuarios.csproj|c:\\repositories\\gh\\gestaousuarios\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38213B17-566C-F0CF-7FCB-119BB63C7B0C}|GestaoUsuarios.csproj|solutionrelative:views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38213B17-566C-F0CF-7FCB-119BB63C7B0C}|GestaoUsuarios.csproj|c:\\repositories\\gh\\gestaousuarios\\controllers\\usuarios\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38213B17-566C-F0CF-7FCB-119BB63C7B0C}|GestaoUsuarios.csproj|solutionrelative:controllers\\usuarios\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38213B17-566C-F0CF-7FCB-119BB63C7B0C}|GestaoUsuarios.csproj|c:\\repositories\\gh\\gestaousuarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38213B17-566C-F0CF-7FCB-119BB63C7B0C}|GestaoUsuarios.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38213B17-566C-F0CF-7FCB-119BB63C7B0C}|GestaoUsuarios.csproj|c:\\repositories\\gh\\gestaousuarios\\models\\usuarios\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38213B17-566C-F0CF-7FCB-119BB63C7B0C}|GestaoUsuarios.csproj|solutionrelative:models\\usuarios\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38213B17-566C-F0CF-7FCB-119BB63C7B0C}|GestaoUsuarios.csproj|c:\\repositories\\gh\\gestaousuarios\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38213B17-566C-F0CF-7FCB-119BB63C7B0C}|GestaoUsuarios.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38213B17-566C-F0CF-7FCB-119BB63C7B0C}|GestaoUsuarios.csproj|c:\\repositories\\gh\\gestaousuarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38213B17-566C-F0CF-7FCB-119BB63C7B0C}|GestaoUsuarios.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositories\\GH\\GestaoUsuarios\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Repositories\\GH\\GestaoUsuarios\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T18:27:29.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "usuarios.js",
+              "DocumentMoniker": "C:\\Repositories\\GH\\GestaoUsuarios\\wwwroot\\js\\usuarios.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\usuarios.js",
+              "ToolTip": "C:\\Repositories\\GH\\GestaoUsuarios\\wwwroot\\js\\usuarios.js",
+              "RelativeToolTip": "wwwroot\\js\\usuarios.js",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCIAAADjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-09-07T16:38:02.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Repositories\\GH\\GestaoUsuarios\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Repositories\\GH\\GestaoUsuarios\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-07T03:17:56.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Repositories\\GH\\GestaoUsuarios\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Repositories\\GH\\GestaoUsuarios\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T03:10:41.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Repositories\\GH\\GestaoUsuarios\\Models\\Usuarios\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuarios\\Usuario.cs",
+              "ToolTip": "C:\\Repositories\\GH\\GestaoUsuarios\\Models\\Usuarios\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuarios\\Usuario.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAzwBQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T03:09:29.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Repositories\\GH\\GestaoUsuarios\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Repositories\\GH\\GestaoUsuarios\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-07T03:06:51.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Repositories\\GH\\GestaoUsuarios\\Controllers\\Usuarios\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Usuarios\\UsuariosController.cs",
+              "ToolTip": "C:\\Repositories\\GH\\GestaoUsuarios\\Controllers\\Usuarios\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\Usuarios\\UsuariosController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T18:50:03.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
